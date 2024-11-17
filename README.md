@@ -44,9 +44,9 @@ Before running this project, ensure you have the following installed:
   Open your browser and go to http://localhost:5000.
 
 ## Technologies Used
-Programming Language: Python 3.7+
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Flask/Streamlit
-IDE: Jupyter Notebook, VS Code
+1.Programming Language: Python 3.7+
+2.Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Flask/Streamlit
+3.IDE: Jupyter Notebook, VS Code
 
 ## How it Works
 Data Preprocessing:
