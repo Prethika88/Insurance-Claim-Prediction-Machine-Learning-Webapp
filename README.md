@@ -38,13 +38,16 @@ Before running this project, ensure you have the following installed:
    
    cd Insurance-Claim-Prediction-Machine-Learning-Webapp
    
-3. **Install dependencies**:
+2. **Install dependencies**:
+   
    python -m pip install --user -r requirements.txt
    
 3.**Run the application**: 
+
   python app.py
   
 4.**Access the application**:
+
   Open your browser and go to http://localhost:5000.
 
 ## Technologies Used
