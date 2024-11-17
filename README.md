@@ -33,20 +33,20 @@ Before running this project, ensure you have the following installed:
 
 ## Installation Steps
 
-1. **Clone the repository**:
+**Clone the repository**:
    git clone https://github.com/Prethika88/Insurance-Claim-Prediction-Machine-Learning-Webapp.git
    
    cd Insurance-Claim-Prediction-Machine-Learning-Webapp
    
-2. **Install dependencies**:
+**Install dependencies**:
    
    python -m pip install --user -r requirements.txt
    
-3.**Run the application**: 
+**Run the application**: 
 
   python app.py
   
-4.**Access the application**:
+**Access the application**:
 
   Open your browser and go to http://localhost:5000.
 
