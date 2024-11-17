@@ -68,11 +68,11 @@ Before running this project, ensure you have the following installed:
 ## How it Works
 1.Data Preprocessing:
 
--Handle missing values, if any
+-Handle missing values, if any.
 
--Encode categorical features like sex, smoker, and region
+-Encode categorical features like sex, smoker, and region.
 
--Normalize numerical features like age, BMI, and steps
+-Normalize numerical features like age, BMI, and steps.
 
 2.Model Training:
 
