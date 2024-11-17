@@ -69,17 +69,21 @@ Before running this project, ensure you have the following installed:
 Data Preprocessing:
 
 1.Handle missing values, if any
+
 2.Encode categorical features like sex, smoker, and region
+
 3.Normalize numerical features like age, BMI, and steps
 
 Model Training
 
 1.Train machine learning models such as Linear Regression, Random Forest, or Gradient Boosting on the dataset.
+
 2.Evaluate model performance using metrics like Mean Squared Error (MSE) and R².
 
 Web App:
 
 1.Provide user input forms to predict insurance charges based on the given features.
+
 2.Display predictions and insights.
 
 
