@@ -51,11 +51,19 @@ Before running this project, ensure you have the following installed:
   Open your browser and go to http://localhost:5000.
 
 ## Technologies Used
-1.Programming Language: Python 3.7+
+1.Programming Language: Python
 
-2.Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Flask/Streamlit
+2.Web Framework: Flask 
 
-3.IDE: Jupyter Notebook, VS Code
+3.Frontend: HTML, CSS
+
+4.ML Libraries: Scikit-learn, Pandas, NumPy, Matplotlib
+
+5.Data Storage: model.pkl, insurance3r2 
+
+6.Dependency Management: requirements.txt 
+
+7.Version Control: Git 
 
 ## How it Works
 Data Preprocessing:
